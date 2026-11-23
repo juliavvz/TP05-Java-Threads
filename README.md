@@ -101,9 +101,9 @@ Não coloque senhas ou dados pessoais nas imagens.
 - Java Swing;
 - Threads;
 - Runnable;
+- Maven;
+- GitHub.
 
 ## link do vídeo 
 
 - https://youtu.be/aPOMTd5MHZo
-- Maven;
-- GitHub.
