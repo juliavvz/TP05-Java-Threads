@@ -81,19 +81,6 @@ Verifique se:
 
 Também teste o botão Limpar e os campos com valores inválidos.
 
-## Evidências
-
-As imagens e capturas de tela do trabalho devem ser colocadas na pasta evidencias.
-
-Podem ser adicionadas imagens da:
-
-- Tela inicial;
-- Contagem em execução;
-- Contagem finalizada;
-- Mensagem de validação;
-- Utilização do botão Limpar.
-
-Não coloque senhas ou dados pessoais nas imagens.
 
 ## Tecnologias utilizadas
 
